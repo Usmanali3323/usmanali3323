@@ -26,7 +26,7 @@
 
 I'm a passionate MERN stack developer focused on building scalable web applications. With expertise across the entire JavaScript stack, I deliver robust solutions from concept to deployment.
 
-- 🔭 **Currently working on:** [SkillSwap](https://github.com/usmanali3323/SKillSwap) - A skill exchange platform
+- 🔭 **Currently working on:** [SkillSwap](https://github.com/usmanali3323/SkillSwap-Backend) - A skill exchange platform
 - 💼 **Portfolio:** [https://portflio-4ac1d.web.app/](https://portflio-4ac1d.web.app/)
 - 📬 **Contact:** usmanali.freelance@gmail.com
 - 🤝 **Seeking:** Collaboration opportunities on innovative MERN projects
