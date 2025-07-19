@@ -70,7 +70,7 @@ I'm a passionate MERN stack developer focused on building scalable web applicati
 
 ## 🌟 Featured Projects
 
-1. **[SkillSwap](https://github.com/usmanali3323/SKillSwap)**  
+1. **[SkillSwap](https://github.com/usmanali3323/SkillSwap-Backend)**  
    A platform for exchanging professional skills built with MERN stack
 
 2. **[Portfolio Website](https://portflio-4ac1d.web.app/)**  
